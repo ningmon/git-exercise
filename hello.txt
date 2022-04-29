@@ -2,9 +2,5 @@ hello git!I`m try my best to learn knowledge about you!
 I want to study more.
 Today is the 11th day since I worked here.
 come on!
-
-<<<<<<< HEAD
 master test
-=======
 hot-fix test
->>>>>>> hot-fix
